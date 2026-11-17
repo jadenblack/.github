@@ -1,0 +1,26 @@
+# Values for the rio.stack GitHub template (riolabs-ai/rio.stack: stack/github-template, v1).
+# Re-render: bash <rio.stack>/stack/github-template/render.sh --values rio-template.values.yaml --out . --apply
+# Anything still marked TODO(jaden) is a decision, not a gap to guess at.
+ORG_NAME: jadenblack
+ACCOUNT_KIND: user
+DISPLAY_NAME: Jaden Black
+TAGLINE: Agentic tooling, side projects, and the occasional black hole.
+ABOUT: >-
+  This is my personal corner: side projects and experiments, mostly agentic and AI
+  tooling. Bots that run real workflows, the workspace they run on, and the glue in
+  between. Things start here, get battle-tested, and the good ones graduate.
+FOCUS: |-
+  - **Agentic AI tooling**: Hermes bots, agent harnesses, MCP integrations
+  - **Workspace as code**: GitHub, Obsidian and Vercel as one durable setup
+  - **Small, sharp side projects** that scratch a real itch
+HOME_SCOPE: personal side projects, experiments and forks worth keeping.
+RELATED_ORG: riolabs-ai
+RELATED_SCOPE: RioLabs AI, where rio.stack lives (the workspace all my work runs on), plus client and business work.
+LOCATION: Austin · BAS · Rio de Janeiro
+CONTACT_LINE: Open an issue on any repo and I'll see it. Email is TODO(jaden).
+CONTACT_EMAIL: "TODO(jaden): add a contact email"
+SECURITY_EMAIL: "TODO(jaden): add a security contact email (until then, use private vulnerability reporting)"
+SECURITY_RESPONSE: a week
+SUPPORT_LEVEL: best effort, since these are personal side projects
+AVATAR_FILE: profile-blackhole.jpg
+AVATAR_SOURCE: ""   # was brand/profile-blackhole.jpg on prodesk; already copied to profile/assets/
