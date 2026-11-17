@@ -24,7 +24,7 @@ HIGHLIGHTS: |-
   - **[pwp-engine](https://github.com/jadenblack/pwp-engine)**: a WordPress enhancement platform with submodules for forms, security, MCP servers and n8n.
   - **[agency-os](https://github.com/jadenblack/agency-os)**: a business operating system on Next.js + Directus.
   - **[ghp-vscode-setup](https://github.com/jadenblack/ghp-vscode-setup)**: a Codex-managed VS Code setup, MVP.
-RADAR: |-
+RADAR: >-
   Projects I fork, read and borrow ideas from:
   [openclaw](https://github.com/openclaw/openclaw) ·
   [superpowers](https://github.com/obra/superpowers) ·
