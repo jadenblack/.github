@@ -28,5 +28,5 @@ these rules. Serious or repeated cases are removed without warning.
 
 ## Reporting
 
-Write to TODO(jaden): add a contact email. Reports are read only by the maintainers and kept private.
+Write to hello@jadenblack.com. Reports are read only by the maintainers and kept private.
 If the report involves a maintainer, say so and it will be handled by someone else.
